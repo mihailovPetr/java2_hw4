@@ -1,0 +1,15 @@
+.root {
+    /*--fx-font-size: 16px;*/
+    /*-fx-background-image: url("https://www.google.com/images/srpr/logo3w.png");*/
+    /*-fx-background-image: url("/image/2.png");*/
+
+}
+
+
+.button:hover{
+    -fx-background-color: #c9ef60;
+}
+
+
+
+
